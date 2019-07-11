@@ -1,0 +1,114 @@
+.header{
+  font-family: Arial Narrow;
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: -5;
+  margin:0px -10 0px -10px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  padding-top: 31px;
+}
+h1.rdp{
+  display: block;
+  color: white;
+  text-align: center;
+  //padding: 14px 16px;
+  text-decoration: none;
+  padding-left: 50px;
+  padding-right: 20px;
+}
+#welcome{
+  padding-left: 650px;
+}
+img{
+  width: 40px;
+  height: 40px;
+  padding-top: 20px;
+  padding-left: 35px;
+}
+.form{
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 25px;
+}
+#cptn{
+  font-family: "Segoe UI",Arial,sans-serif;
+  font-weight: lighter;
+}
+#hr{
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.tbl{
+  width: 100%;
+  //border-spacing: 100px 0;
+}
+td{
+  width: 33%;
+}
+input[type="text"]{
+  width : 70%;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  height: 30px;
+  border-color: #e4e4e4;
+}
+select{
+  width : 70%;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  height: 30px;
+  border-color: #e4e4e4;
+  color:#a8ada9;
+}
+button{
+  width: auto;
+  height: 30px;
+  border-radius: 2px;
+  border: none;
+  background-color: #4bd654;
+  color:#fff;
+}
+.anchor{
+  text-decoration: none;
+  margin-left:20px;
+  margin-top:-30px;
+  padding-top: -30px;
+  color: #42c2f5;
+}
+.footer{
+  width: 100%;
+  height:70px;
+  background-color: #333;
+  margin-left:-10px;
+}
+label{
+  margin-left: 220px;
+  color:#fff;
+}
+.Help{
+  margin-left: 850px;
+  color:#fff;
+  font-family: Arial Narrow;
+  font-size: 18 px;
+  font-weight: bold;
+}
